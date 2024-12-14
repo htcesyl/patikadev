@@ -1,0 +1,2 @@
+# patikadev
+motoko hesap makinesi
